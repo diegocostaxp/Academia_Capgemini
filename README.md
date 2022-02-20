@@ -1,10 +1,12 @@
-Processo seletivo para Academia Capgemini
+# Processo seletivo para Academia Capgemini
 
 Instruções de acesso:
 
-1 - Inicie o projeto com sua IDE favorita focada em tecnologia Java; 
-2 - Start o projeto em \Academia_Capgemini\src; 
-3 - Após a execução alimente os dados que ficarão localizados em seu console.
+-1 - Inicie o projeto com sua IDE favorita focada em tecnologia Java; 
+
+-2 - Execute o projeto em \Academia_Capgemini\src; 
+
+-3 - Após a execução alimente os dados que ficarão localizados em seu console.
 
 Questões a serem avaliadas:
 
