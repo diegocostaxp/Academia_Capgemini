@@ -3,12 +3,15 @@
 ## INSTRUÇÕES DE ACESSO:
 
 
-#### 1° Possibilidade - Clone o projeto da seguinte forma: abra o prompt de comando e digite a seguinte informação: <code>git clone https://github.com/diegocostaxp/Academia_Capgemini.git</code>.
-Através da sua IDE de preferência, clique na classe correspondente e execute o código através do botão "Run Java".
+#### 1° Possibilidade 
+
+#### Clone o projeto da seguinte forma: abra o prompt de comando e digite a seguinte informação: <code>git clone https://github.com/diegocostaxp/Academia_Capgemini.git</code>. Através da sua IDE de preferência, clique na classe correspondente e execute o código através do botão "Run Java".
 
 ### OU
 
-#### 2° Possibilidade - Baixe o arquivo através do botão verde chamado "CODE" e clique no último item (Download ZIP). Através da sua IDE de preferência, clique na classe correspondente e execute o código através do botão "Run Java".
+#### 2° Possibilidade
+
+#### Baixe o arquivo através do botão verde chamado "CODE" e clique no último item (Download ZIP). Através da sua IDE de preferência, clique na classe correspondente e execute o código através do botão "Run Java".
 
 <hr/>
 
